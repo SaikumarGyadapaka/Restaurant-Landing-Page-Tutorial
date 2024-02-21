@@ -7,6 +7,8 @@ const About = () => {
   return (
     <div className="about-section-container">
     
+
+    
     </div>
   );
 };
